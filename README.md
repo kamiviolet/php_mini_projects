@@ -9,6 +9,6 @@ The link to Apache Friends is as follows:
 Please follow the official documentation to download the package for your own platform and go through the installation.
 
 ## Mini-project 1 (on-going)
-A most simplistic webpage with form handling, allowing users to register and be redirected to the confirmation page.
-The input data will be sanitized and stored in the mySQL database.
-The password will be hashed for security reason.
+A most simplistic webpage with form handling, allowing users to register and be redirected to the confirmation page.\n
+The input data will be sanitized and stored in the mySQL database.\n
+The password will be hashed for security reason.\n
